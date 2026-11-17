@@ -2,6 +2,8 @@
 A real-time, physically grounded black hole you can fly around, fall into, and photograph, running in the browser on WebGPU.
 Last Stable Orbit
 
+https://thelaststableorbit.edgeone.dev/
+
 A real-time, physically grounded black hole you can fly around, fall into, and photograph, running in the browser on WebGPU. Every pixel follows a ray of light through curved spacetime, so what you see is what a camera there would actually record.
 
 It is one self-contained index.html of about 52 KB (22 KB gzipped). There is no engine, no library, and no texture, model or audio file: the starfield, nebulae, accretion disk, station, planet, star and music are all generated in code.
