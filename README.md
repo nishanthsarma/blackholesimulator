@@ -83,4 +83,4 @@ Built with the help of Claude (Anthropic).
 
 License
 
-No license has been chosen yet.
+GNU General Public License version 3
