@@ -4,7 +4,7 @@ A real-time, physically grounded black hole you can fly around, fall into, orbit
 
 The whole project is one self-contained index.html of about 69 KB (29 KB gzipped). There is no engine, no library, and no texture, model or audio file: the starfield, galaxy, accretion disk, station, planet, star and music are all generated in code.
 
-[Live demo: https://claude.ai/artifact/EVyU5Yxs9EwQmjbnm63jRU](https://thelaststableorbit.edgeone.dev/)
+[Live demo: https://thelaststableorbit.edgeone.dev/)
 
 Sunrise of a black hole over the planet's ocean, and four views from space
 
