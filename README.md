@@ -79,8 +79,6 @@ Sound driven by the physics (orbital frequencies at your radius)
 Full-resolution performance measurements and a blind visual review
 Credits
 
-Built with the help of Claude (Anthropic).
-
 License
 
 GNU General Public License version 3
